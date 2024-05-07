@@ -83,8 +83,8 @@ p{
 
 .share{
     position: absolute;
-    right: 250px;
-    bottom: 270px;
+    right: 19.5rem;
+    bottom: 20.5rem;
     background-color: hsl(217, 19%, 35%);
     padding: 20px;
     color:hsl(214, 17%, 51%);
@@ -110,6 +110,6 @@ p{
     border-color: hsl(217, 19%, 35%) transparent transparent transparent;
 }
 
-.hidden{
+/* .hidden{
     display: none;
-}
+} */
