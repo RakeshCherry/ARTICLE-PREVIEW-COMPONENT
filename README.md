@@ -1,5 +1,9 @@
 # Frontend Mentor - Article preview component
 
+## click on link below
+
+https://rakeshcherry.github.io/ARTICLE-PREVIEW-COMPONENT/
+
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
